@@ -1,0 +1,10 @@
+bin
+obj
+any
+packages
+paket-files
+.idea
+.fake
+.vscode
+.paket
+.ionide
