@@ -6,7 +6,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Take2.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
